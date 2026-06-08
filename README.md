@@ -19,7 +19,7 @@ $ cat status.txt
 Hi, I'm **Angel** — I like turning late-night ideas into things that actually run.
 Always chasing the next small project that orbits a big idea.
 
-### 🛠️ Constellation of Tools
+###  Constellation of Tools
 
 <!-- Swap in your real stack. These badges use the banner's colors. -->
 ![Python](https://img.shields.io/badge/Python-22d3ee?style=flat-square&logo=python&logoColor=white)
@@ -28,8 +28,8 @@ Always chasing the next small project that orbits a big idea.
 
 ### 💫 Currently
 
-- 🌠 **Building:** <!-- your current project -->
-- 🔭 **Learning:** <!-- something new -->
+- 🌠 **Building:** An App!⊹ ࣪ ˖
+- 🔭 **Learning:** How to code, still at the start.✦ ݁˖
 - 📫 **Reach me:** <!-- link / email -->
 
 <sub>✦ ✧ ✦ &nbsp; thanks for drifting by &nbsp; ✦ ✧ ✦</sub>
