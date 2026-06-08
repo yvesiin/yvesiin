@@ -1,16 +1,13 @@
-## Hi there 👋
+<p align="center">
+  <img src="./banner.png" alt="Angel's banner" width="100%" />
+</p>
 
-<!--
-**yvesiin/yvesiin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<!-- Everything below is optional — keep, edit, or delete. -->
 
-Here are some ideas to get you started:
+### ✦ Hi, I'm Angel
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🌌 Building among the stars
+- 🛠️ Currently working on: <!-- your project -->
+- 📫 Reach me: <!-- your link/email -->
+
+<img width="2560" height="640" alt="github banner" src="https://github.com/user-attachments/assets/9d942e0d-7d6f-4ed8-bd60-40b940c4ecf8" />
