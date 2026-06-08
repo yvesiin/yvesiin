@@ -3,3 +3,36 @@
 </p>
 
 <!-- Everything below is optional — keep, edit, or delete. -->
+<p align="center">
+  <img src="./banner.png" alt="Angel's banner" width="100%" />
+</p>
+
+```bash
+$ whoami
+> angel — developer & cosmic tinkerer ✦
+$ cat status.txt
+> currently building among the stars 🌌
+```
+
+> *Somewhere between the terminal and the telescope.* ✧
+
+### ✦ About
+
+<!-- A line or two about you. Example: -->
+Hi, I'm **Angel** — I like turning late-night ideas into things that actually run.
+Always chasing the next small project that orbits a big idea.
+
+### 🛠️ Constellation of Tools
+
+<!-- Swap in your real stack. These badges use the banner's colors. -->
+![Python](https://img.shields.io/badge/Python-22d3ee?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-c084fc?style=flat-square&logo=javascript&logoColor=white)
+![Git](https://img.shields.io/badge/Git-f472b6?style=flat-square&logo=git&logoColor=white)
+
+### 💫 Currently
+
+- 🌠 **Building:** <!-- your current project -->
+- 🔭 **Learning:** <!-- something new -->
+- 📫 **Reach me:** <!-- link / email -->
+
+<sub>✦ ✧ ✦ &nbsp; thanks for drifting by &nbsp; ✦ ✧ ✦</sub>
