@@ -3,9 +3,3 @@
 </p>
 
 <!-- Everything below is optional — keep, edit, or delete. -->
-
-### ✦ Hi, I'm Angel
-
-- 🌌 Building among the stars
-- 🛠️ Currently working on: <!-- your project -->
-- 📫 Reach me: <!-- your link/email -->
