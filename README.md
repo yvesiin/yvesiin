@@ -3,9 +3,6 @@
 </p>
 
 <!-- Everything below is optional — keep, edit, or delete. -->
-<p align="center">
-  <img src="./banner.png" alt="Angel's banner" width="100%" />
-</p>
 
 ```bash
 $ whoami
