@@ -1,38 +1,31 @@
 <p align="center">
- <img width="1280" height="320" alt="github_banner_bwpink" src="https://github.com/user-attachments/assets/e0396045-1e97-401a-b6bc-2d9ebdf13419" />
+  <a href="https://yvesiin.github.io"><img src="./banner.png" alt="Angel" width="100%" /></a>
 </p>
 
-<!-- Everything below is optional — keep, edit, or delete. -->
-
 ```bash
-$ whoami
-> angel — developer & cosmic tinkerer ✦
-$ cat status.txt
-> currently building among the stars 🌌
+angel@dev:~$ whoami
+> angel — a fallen angel, learning to code
+angel@dev:~$ cat status.txt
+> building · breaking · learning
 ```
 
-> *Somewhere between the terminal and the telescope.* ✧
+> *building things, breaking them first, learning either way.*
+> [ ✦ visit my site ✦ ](https://yvesiin.github.io)
 
-### ✦ About
+### `// about`
+- 🖤 getting into code — figuring it out as i go
+- 🎯 tech · gaming · making things look clean
+- 🌒 monochrome by default
 
-<!-- A line or two about you. Example: -->
-Hi, I'm **Angel** — I like turning late-night ideas into things that actually run.
-Always chasing the next small project that orbits a big idea.
+### `// currently`
+```text
+learning  →  <!-- your language / tool -->
+building  →  <!-- first projects, soon -->
+```
 
-[ ✦ visit my site ✦ ](https://yvesiin.github.io)
+### `// find me`
+[![X](https://img.shields.io/badge/astriinx-0a0a0c?style=flat-square&logo=x&logoColor=f7a8c4)](https://x.com/astriinx)
+[![Discord](https://img.shields.io/badge/Discord-0a0a0c?style=flat-square&logo=discord&logoColor=f7a8c4)](https://discord.com/users/1476650005707231274)
+[![Site](https://img.shields.io/badge/Website-0a0a0c?style=flat-square&logo=githubpages&logoColor=f7a8c4)](https://yvesiin.github.io)
 
-###  Constellation of Tools
-
-<!-- Swap in your real stack. These badges use the banner's colors. -->
-![Python](https://img.shields.io/badge/Python-22d3ee?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-c084fc?style=flat-square&logo=javascript&logoColor=white)
-![Git](https://img.shields.io/badge/Git-f472b6?style=flat-square&logo=git&logoColor=white)
-
-### 💫 Currently
-
-- 🌠 **Building:** An App!⊹ ࣪ ˖
-- 🔭 **Learning:** How to code, still at the start.✦ ݁˖
-- 📫 **Reach me:** <!-- link / email -->
-
-<sub>✦ ✧ ✦ &nbsp; thanks for drifting by &nbsp; ✦ ✧ ✦</sub>
-
+<sub>`// thanks for stopping by`</sub>
