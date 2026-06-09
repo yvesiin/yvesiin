@@ -11,7 +11,7 @@ angel@dev:~$ cat status.txt
 ```
 
 > *building things, breaking them first, learning either way.*
-> [ ✦ visit my site ✦ ](https://yvesiin.github.io)
+
 
 ### `// about`
 -  getting into code — figuring it out as i go
