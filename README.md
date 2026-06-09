@@ -14,9 +14,9 @@ angel@dev:~$ cat status.txt
 > [ ✦ visit my site ✦ ](https://yvesiin.github.io)
 
 ### `// about`
-- 🖤 getting into code — figuring it out as i go
-- 🎯 tech · gaming · making things look clean
-- 🌒 monochrome by default
+-  getting into code — figuring it out as i go
+-  tech · gaming · making things look clean
+-  monochrome by default
 
 ### `// currently`
 ```text
