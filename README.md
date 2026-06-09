@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="2560" height="640" alt="github banner" src="https://github.com/user-attachments/assets/9d942e0d-7d6f-4ed8-bd60-40b940c4ecf8" />
+ <img width="1280" height="320" alt="github_banner_bwpink" src="https://github.com/user-attachments/assets/e0396045-1e97-401a-b6bc-2d9ebdf13419" />
 </p>
 
 <!-- Everything below is optional — keep, edit, or delete. -->
@@ -35,3 +35,4 @@ Always chasing the next small project that orbits a big idea.
 - 📫 **Reach me:** <!-- link / email -->
 
 <sub>✦ ✧ ✦ &nbsp; thanks for drifting by &nbsp; ✦ ✧ ✦</sub>
+
